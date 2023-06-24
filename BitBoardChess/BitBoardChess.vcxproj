@@ -141,7 +141,9 @@
   <ItemGroup>
     <ClCompile Include="BuchanFish.cpp" />
     <ClCompile Include="Chessboard.cpp" />
+    <ClCompile Include="Engine.cpp" />
     <ClCompile Include="Graphics.cpp" />
+    <ClCompile Include="MagicBitboard.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="Pieces.cpp" />
     <ClCompile Include="Sprite.cpp" />
@@ -149,8 +151,10 @@
   <ItemGroup>
     <ClInclude Include="BuchanFish.h" />
     <ClInclude Include="Chessboard.h" />
+    <ClInclude Include="Engine.h" />
     <ClInclude Include="Globals.h" />
     <ClInclude Include="Graphics.h" />
+    <ClInclude Include="MagicBitboard.h" />
     <ClInclude Include="Pieces.h" />
     <ClInclude Include="Sprite.h" />
   </ItemGroup>

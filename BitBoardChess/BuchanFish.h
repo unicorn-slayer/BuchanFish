@@ -15,5 +15,5 @@ public:
 private:
 	void drawBoardAndGetInput(Bitboard& board);
 	void draw(Graphics& graphics);
-	Chessboard _chessboard;
+	
 };

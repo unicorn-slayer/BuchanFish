@@ -1,4 +1,4 @@
-﻿  Main.cpp
-  The contents of <bit> are available only with C++20 or later.
-C:\Users\Michael\OneDrive\Desktop\CPP\BitBoardChessSln\BitBoardChess\Main.cpp(495): warning C4715: 'convert': not all control paths return a value
+﻿  Engine.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\bit(12): warning STL4038: The contents of <bit> are available only with C++20 or later.
+C:\Users\Michael\OneDrive\Desktop\CPP\BitBoardChessSln\BitBoardChess\Engine.cpp(499): warning C4715: 'Engine::convert': not all control paths return a value
   BitBoardChess.vcxproj -> C:\Users\Michael\OneDrive\Desktop\CPP\BitBoardChessSln\x64\Debug\BitBoardChess.exe
